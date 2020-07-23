@@ -7,6 +7,13 @@ verify_ssl = true
 
 [packages]
 ipython = {extras = ["notebook"],version = "*"}
+matplotlib = "*"
+numpy = "*"
+seaborn = "*"
+scipy = "*"
+pandas = "*"
+statsmodels = "*"
+sklearn = "*"
 
 [requires]
 python_version = "3.8"
