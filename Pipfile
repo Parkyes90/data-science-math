@@ -14,6 +14,7 @@ scipy = "*"
 pandas = "*"
 statsmodels = "*"
 sklearn = "*"
+sympy = "*"
 
 [requires]
 python_version = "3.8"
